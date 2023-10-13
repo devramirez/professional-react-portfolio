@@ -1,0 +1,122 @@
+{
+    "name": "Andrew",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Andrew Ramirez - ambitious",
+    "headerTaglineThree": "designer and developer",
+    "headerTaglineFour": " based in Charlotte, NC.",
+    "showCursor": true,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      { "id": "1", "title": "Github", "link": "https://github.com/devramirez" },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/aramirezecu/"
+      },
+      { "id": "3", "title": "Twitter", "link": "https://twitter.com/devdreww" },
+      { "id": "4", "title": "Blog", "link": "https://blog.andrewramirez.com/" },
+      {
+        "id": "5",
+        "title": "Email",
+        "link": "mailto:hello@ramirezaclt@gmail.com"
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "Full Stack Portfolio",
+        "description": "Web Design",
+        "imageSrc": "https://github.com/devramirez/Full-Stack-Portfolio/blob/main/assets/images/webapp-capture.png?raw=true",
+        "url": "https://github.com/devramirez/Full-Stack-Portfolio"
+      },
+      {
+        "id": "2",
+        "title": "Weather Dashboard",
+        "description": "Weather app",
+        "imageSrc": "https://i.pinimg.com/originals/06/c4/f7/06c4f70ec5931e2342e703e8a3f0a253.png",
+        "url": "https://github.com/devramirez/weather-dashboard/"
+      },
+      {
+        "id": "3",
+        "title": "NoSQL Social Network API",
+        "description": "Social Network API",
+        "imageSrc": "https://static.vecteezy.com/system/resources/previews/003/600/947/non_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg",
+        "url": "https://github.com/devramirez/nosql-social-network/"
+      },
+      {
+        "id": "4",
+        "title": "README Generator",
+        "description": "Create a README file",
+        "imageSrc": "https://res.cloudinary.com/practicaldev/image/fetch/s--7yVSltAE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://user-images.githubusercontent.com/9840435/59461914-cbc18380-8e22-11e9-8567-87b43da950ac.png",
+        "url": "https://github.com/devramirez/readme-generator"
+      },
+      {
+        "id": "5",
+        "title": "Password Generator",
+        "description": "Create a strong password",
+        "imageSrc": "https://play-lh.googleusercontent.com/H1btEQSvVNNQwti4e926v4RUjQXTIb_PYzNVxjujWqggP4-fv3voBXAnOTlmj1Jmvg",
+        "url": "https://github.com/devramirez/Random-Password-Generator"
+      },
+      {
+        "id": "6",
+        "title": "SVG Logo Maker",
+        "description": "Create SVG files",
+        "imageSrc": "https://www.svgrepo.com/show/353733/figma.svg",
+        "url": "https://github.com/devramirez/svg-logo-maker"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "QA Testing",
+        "description": "We help with the testing of your web applications to ensure complete confidence and reliability in your website. "
+      },
+      {
+        "id": "2",
+        "title": "Branding",
+        "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      },
+      {
+        "id": "3",
+        "title": "Web Design",
+        "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      },
+      {
+        "id": "4",
+        "title": "AWS Cloud Deployment",
+        "description": "We help deploy your applications to the cloud and assist you with learning about all the tools available on AWS."
+      }
+    ],
+    "aboutpara": "I am a web developer/software engineer that's very passionate about sharing my knowledge and skills I have acquired with as many people that I can. I have been fortunate enough to work and learn from very talented engineers and designers and with that experience I intend on continuing to create beautifully designed web apps.",
+    "resume": {
+      "tagline": "👋  I'm a software engineer",
+      "description": "I have worked with extremely talented engineers and designers and with that experience I have developed the skills necessary to create and design beautiful web applications.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "April 2023 - October 2023",
+          "type": "Full Time",
+          "position": "Full Stack Developer",
+          "bullets": "UNCC Coding Bootcamp"
+        },
+        {
+          "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+          "dates": "July 2023 - Present",
+          "type": "Full Time",
+          "position": "Frontend Engineer at Meta",
+          "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+        }
+      ],
+      "education": {
+        "universityName": "University of North Carolina at Charlotte",
+        "universityDate": "2023-2023",
+        "universityPara": "Full Stack Coding Bootcamp"
+      },
+      "languages": ["Javascript", "HTML5", "CSS", "Python"],
+      "frameworks": ["React", "Redux", "NodeJs"],
+      "others": ["Figma", "Trello", "AWS"]
+    }
+  }
+  
