@@ -1,1 +1,5 @@
 node_modules
+package.json
+postcss.config.js
+yarn.lock
+tailwind.config.js
